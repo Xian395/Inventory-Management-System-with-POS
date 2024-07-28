@@ -1,4 +1,4 @@
-![Screenshot](images/Screenshot2024-07-28155538.png)
+![Screenshot](images/Screenshot 2024-07-28 155538.png)
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
